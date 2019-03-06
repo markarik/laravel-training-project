@@ -1,0 +1,42 @@
+.container{
+    margin-top:5rem;
+}
+
+h1{
+    text-transform: capitalize;
+}
+
+//table
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  //button
+
+  .button{
+     
+      float:right;
+      margin:2rem;
+      background-color:rgba(128,128,128,0.2);
+  
+      
+     
+  }
+
+  #app{
+    height:10px;
+    margin-top:0;
+    padding-top: 5px!important;
+  }
